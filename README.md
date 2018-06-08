@@ -1,4 +1,4 @@
-##Instructions
+## Instructions
  
  * Write a password validation service, meant to be configurable via IoC (using dependency injection engine of your choice). 
 * The service is meant to check a text string for compliance to any number of password validation rules. 
@@ -7,7 +7,7 @@
     * Must be between 5 and 12 characters in length.
     * Must not contain any sequence of characters immediately followed by the same sequence.
 
-##Packaging 
+## Packaging 
 * Include all artifacts in a zip file and please let us know how many hours you spent on the programming problem. 
 * The project should include a build capability in one of the following tools,
 * Eclipse, IntelliJ, ant, or maven. 
